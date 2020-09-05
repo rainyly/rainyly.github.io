@@ -11,7 +11,7 @@
 
 ### Projects 
 
-[Predicting and Evaluating Individual Outcomes and Treatment Benefit from Randomized Trial Data: A Case Study on the Diabetes Prevention Program](/sample_page)
+[Predicting and Evaluating Individual Outcomes and Treatment Benefit from Randomized Trial Data: A Case Study on the Diabetes Prevention Program](/pdf/DPPAnalysisWithIndividualTreatmentEffect.pdf)
 <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -21,7 +21,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Sentiment analysis and similarity analysis on President Speech data using Hadoop MapReduce on Google Cloud Platform](http://example.com/)
+[Sentiment analysis and similarity analysis on President Speech data using Hadoop MapReduce on Google Cloud Platform](/sample_page)
 <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
