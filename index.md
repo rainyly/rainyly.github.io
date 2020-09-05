@@ -1,15 +1,15 @@
-## Portfolio
+<!-- ## Portfolio --)
 
 ---
-### Education:
-##### M.S. of Data Science, Tufts University
-##### M.S. of Analytics, Gerogia Tech
-##### M.S. of Biochemistry, Texas A&M University
-##### B.S. of Biotechnology, Nankai University
+# Education:
+### M.S. of Data Science, Tufts University
+### M.S. of Analytics, Gerogia Tech
+### M.S. of Biochemistry, Texas A&M University
+### B.S. of Biotechnology, Nankai University
 
 ---
 
-### Projects 
+# Projects 
 
 [Predicting and Evaluating Individual Outcomes and Treatment Benefit from Randomized Trial Data: A Case Study on the Diabetes Prevention Program](/pdf/DPPAnalysisWithIndividualTreatmentEffect.pdf)
 <br>
