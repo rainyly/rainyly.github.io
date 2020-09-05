@@ -13,7 +13,7 @@
 
 [Predicting and Evaluating Individual Outcomes and Treatment Benefit from Randomized Trial Data: A Case Study on the Diabetes Prevention Program](/pdf/DPPAnalysisWithIndividualTreatmentEffect.pdf)
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/roc.png?raw=true"/>
 
 ---
 [Design an Interactive Platform for US Cattle Production Visualization and Prediction](/pdf/final_poster.pdf)
