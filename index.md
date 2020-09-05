@@ -18,7 +18,7 @@
 ---
 [Design an Interactive Platform for US Cattle Production Visualization and Prediction](/pdf/final_poster.pdf)
 <br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cattle.png?raw=true"/>
 
 ---
 [Sentiment analysis and similarity analysis on President Speech data using Hadoop MapReduce on Google Cloud Platform](/sample_page)
