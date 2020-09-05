@@ -11,9 +11,7 @@
 
 ### Projects 
 
-[Predicting and Evaluating Individual Outcomes and Treatment Benefit from Randomized Trial Data: A Case Study on the Diabetes Prevention Program](/sample_page)
-<br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting and Evaluating Individual Outcomes and Treatment Benefit from Randomized Trial Data: A Case Study on the Diabetes Prevention Program](/sample_page)<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Design an Interactive Platform for US Cattle Production Visualization and Prediction](/pdf/final_pposter.pdf)
