@@ -23,7 +23,7 @@
 ---
 [Sentiment analysis and similarity analysis on President Speech data using Hadoop MapReduce on Google Cloud Platform](/sample_page)
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
