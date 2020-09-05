@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Design an Interactive Platform for US Cattle Production Visualization and Prediction](/pdf/final_pposter.pdf)
+[Design an Interactive Platform for US Cattle Production Visualization and Prediction](https://github.com/rainyly/rainyly.github.io/blob/master/pdf/final_poster.pdf)
 <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
