@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Design an Interactive Platform for US Cattle Production Visualization and Prediction](/pdf/final&nbspposter.pdf)
+[Design an Interactive Platform for US Cattle Production Visualization and Prediction](/pdf/final_pposter.pdf)
 <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
