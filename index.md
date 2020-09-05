@@ -2,10 +2,10 @@
 
 ---
 ### Education:
-###### M.S. of Data Science, Tufts University
-###### M.S. of Analytics, Gerogia Tech
-###### M.S. of Biochemistry, Texas A&M University
-###### B.S. of Biotechnology, Nankai University
+##### M.S. of Data Science, Tufts University
+##### M.S. of Analytics, Gerogia Tech
+##### M.S. of Biochemistry, Texas A&M University
+##### B.S. of Biotechnology, Nankai University
 
 ---
 
