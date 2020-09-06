@@ -26,6 +26,7 @@
 <li> Build machine learning model with feature selections and time series (ARIMA) model to analyze and predict future cattle productions. </li>
 <li> Clean and reformat data(>1GB) using Python Pandas and Numpy. </li>
 <li> Visualize data in U.S map, stack bar and line chart using javascrip.D3. </li>
+<li> <a href="https://youtu.be/0MQ33xdNRTw"> Video Presentation</a> </li>
 </ul>
 <br>
 <img src="images/cattle.png?raw=true"/>
